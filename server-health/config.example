@@ -1,0 +1,7 @@
+# Copy to config and adjust local values as needed.
+DISK_PATH="/"
+DISK_WARN=85
+MEMORY_WARN=90
+LOAD_WARN=4.00
+PROCESSES="sshd cron"
+LOG_FILE="health-check.log"
